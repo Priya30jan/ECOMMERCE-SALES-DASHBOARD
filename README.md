@@ -66,6 +66,7 @@ Sample screenshots of the Priya Ecommerce Sales Dashboard.
 **Sum of Quantity by PaymentMode**
 
 ![image](https://github.com/Priya30jan/PRIYA-ECOMMERCE-SALES-DASHBOARD/assets/127383717/0156315d-1e73-494d-bc01-9a59666b5db0)
+
 **Profit by Month**
 
 ![image](https://github.com/Priya30jan/PRIYA-ECOMMERCE-SALES-DASHBOARD/assets/127383717/ea9eae8f-06ef-44bf-8073-04ace1af07fd)
