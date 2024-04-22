@@ -1,8 +1,8 @@
 # ECOMMERCE-SALES-DASHBOARD
-The project includes gathering sales data from Priya's ecommerce platform, including information such as sum profit, sum of quantity and sum of amount.
+The project includes gathering sales data from ecommerce platform, including information such as sum profit, sum of quantity and sum of amount.
 
 **Objectives:**
-Develop an interactive dashboard to analyze sales data for Priya's ecommerce platform.
+Develop an interactive dashboard to analyze sales data for ecommerce platform.
 Gather, clean, and integrate sales data from various sources.
 Visualize key sales metrics and trends to aid decision-making.
 Implement forecasting models to predict future sales trends.
@@ -10,7 +10,7 @@ Provide insights into customer demographics, product performance, and revenue st
 Ensure the dashboard is user-friendly and accessible to stakeholders.
 
 **Methodology:**
-Data Collection: Gathered sales data from Priya's ecommerce platform, including product sales, customer demographics, order details, and revenue information.
+Data Collection: Gathered sales data from ecommerce platform, including product sales, customer demographics, order details, and revenue information.
 Data Cleaning: Cleansed and preprocessed the data to remove duplicates, handle missing values, and ensure accuracy.
 Data Integration: Integrated the cleaned data into Power BI for analysis and visualization.
 Dashboard Design: Designed an intuitive dashboard layout with interactive visualizations, including charts, graphs, and tables.
@@ -32,7 +32,7 @@ Integrate external data sources such as marketing campaigns and website analytic
 Provide ongoing training and support for users to maximize the dashboard's utility and adoption.
 Stay updated on industry trends and best practices in ecommerce analytics to ensure the dashboard remains effective and competitive.
 Conclusion:
-The Priya Ecommerce Sales Dashboard project has successfully delivered a powerful tool for analyzing and tracking sales data for Priya's ecommerce business. With its user-friendly interface, insightful visualizations, and forecasting capabilities, the dashboard is poised to drive informed decision-making and contribute to the overall success of Priya's ecommerce operations.
+The Ecommerce Sales Dashboard project has successfully delivered a powerful tool for analyzing and tracking sales data for Priya's ecommerce business. With its user-friendly interface, insightful visualizationsf, and forecasting capabilities, the dashboard is poised to drive informed decision-making and contribute to the overall success of ecommerce operations.
 
 **Appendix:**
 
